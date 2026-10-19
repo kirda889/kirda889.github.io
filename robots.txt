@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://yousefalshamrani.com/realestate/sitemap.xml
+Sitemap: https://yousefalshamrani.com/qiyas/sitemap.xml
