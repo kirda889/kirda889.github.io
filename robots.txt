@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://lagtamap.com/sitemap.xml
-Sitemap: https://yousefalshamrani.com/qiyas/sitemap.xml
