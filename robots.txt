@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 Disallow: /shawahid/
 Sitemap: https://lagtamap.com/jeddah/sitemap.xml
-Sitemap: https://yousefalshamrani.com/qiyas/sitemap.xml
